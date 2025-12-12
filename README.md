@@ -55,7 +55,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/vgirivardhan139/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00CC3C?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vgirivardhan139)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/girivardhan_velpula?igsh=bmVydGJrbGdvcXhk)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/GirivardhanV?t=o3YST6IN78o3XlWZGkvqwQ&s=08)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VGirivardhan)
 
 ## 
   <img src="https://komarev.com/ghpvc/?username=VGirivardhan" width=160px/>
