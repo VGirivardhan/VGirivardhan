@@ -12,8 +12,6 @@
 
 <br>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=VGirivardhan&theme=dark)
-
 # 💻 Tech Stack
 
 ### Core Skills
