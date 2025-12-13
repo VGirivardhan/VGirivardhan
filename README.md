@@ -12,7 +12,7 @@
 
 <br>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=VGirivardhan&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VGirivardhan&theme=dark)](https://git.io/streak-stats)
 
 # 💻 Tech Stack
 
