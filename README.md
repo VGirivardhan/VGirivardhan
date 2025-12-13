@@ -4,6 +4,16 @@
   </a>
 </h1>
 
+<p align="right">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=VGirivardhan&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VGirivardhan&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" />
+
+<br>
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=VGirivardhan&theme=dark)
+
 # 💻 Tech Stack
 
 ### Core Skills
